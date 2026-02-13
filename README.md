@@ -1,4 +1,5 @@
 # gas-station-finder
 
 
-Data in scripts-> .cvs
+Data in scripts-> .csv
+
