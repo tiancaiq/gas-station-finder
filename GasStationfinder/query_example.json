@@ -1,0 +1,10 @@
+﻿{
+  "csv": "stations_california_clean_5_columns.csv",
+  "location": "33.6430,-117.8412",
+  "mode": "budget",
+  "scale": 3.90,
+  "max_distance": 10,
+  "priority": "cheapest",
+  "brand": "",
+  "top": 10
+}
