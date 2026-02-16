@@ -1,5 +1,6 @@
 # gas-station-finder
 
 
-Data in scripts-> .csv
+Data: scripts-> .csv
+UI:GasUI-> GasUI-> ContentView.swift (xcode)
 
