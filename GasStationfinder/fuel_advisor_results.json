@@ -1,0 +1,146 @@
+[
+  {
+    "id": "b0813c5550c7eecf",
+    "name": "ARCO",
+    "brand": "ARCO",
+    "price": 3.59,
+    "distanceMiles": 5.594,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Convenience Store",
+      "Restroom"
+    ],
+    "latitude": 33.751726873313,
+    "longitude": -117.95496001065
+  },
+  {
+    "id": "6f11d809fbad09a3",
+    "name": "World",
+    "brand": "World",
+    "price": 3.69,
+    "distanceMiles": 4.111,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [],
+    "latitude": 33.760175402966,
+    "longitude": -117.86972380579
+  },
+  {
+    "id": "70ca0ceea28fa51e",
+    "name": "ARCO",
+    "brand": "ARCO",
+    "price": 3.69,
+    "distanceMiles": 5.657,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Convenience Store",
+      "Restroom"
+    ],
+    "latitude": 33.766781080032,
+    "longitude": -117.937821797956
+  },
+  {
+    "id": "ed46d2050b67d34f",
+    "name": "ARCO",
+    "brand": "ARCO",
+    "price": 3.73,
+    "distanceMiles": 3.956,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Convenience Store",
+      "Restroom"
+    ],
+    "latitude": 33.731023001125,
+    "longitude": -117.937660255848
+  },
+  {
+    "id": "f5f2c9e977ee067d",
+    "name": "ARCO",
+    "brand": "ARCO",
+    "price": 3.75,
+    "distanceMiles": 4.105,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Convenience Store",
+      "Restroom"
+    ],
+    "latitude": 33.759981859972,
+    "longitude": -117.868882074888
+  },
+  {
+    "id": "c35213032095f326",
+    "name": "Stars & Stripes Travel Center",
+    "brand": "Stars",
+    "price": 3.79,
+    "distanceMiles": 1.965,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [],
+    "latitude": 33.728031553864,
+    "longitude": -117.867729369543
+  },
+  {
+    "id": "895e52d898230547",
+    "name": "Speedway Express",
+    "brand": "Speedway",
+    "price": 3.79,
+    "distanceMiles": 2.256,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Convenience Store",
+      "Restroom"
+    ],
+    "latitude": 33.727887718558,
+    "longitude": -117.856372512888
+  },
+  {
+    "id": "13639974031c4a1e",
+    "name": "Costco",
+    "brand": "Costco",
+    "price": 3.79,
+    "distanceMiles": 3.197,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Food options",
+      "Restroom"
+    ],
+    "latitude": 33.703677408839,
+    "longitude": -117.934474688905
+  },
+  {
+    "id": "6a972da565101af7",
+    "name": "D & L Gas",
+    "brand": "D",
+    "price": 3.79,
+    "distanceMiles": 4.042,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Convenience Store",
+      "Restroom"
+    ],
+    "latitude": 33.759158852305,
+    "longitude": -117.869735800201
+  },
+  {
+    "id": "50a6e5e14375bc07",
+    "name": "Sam's Club",
+    "brand": "Sam's",
+    "price": 3.79,
+    "distanceMiles": 4.422,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Food options",
+      "Restroom"
+    ],
+    "latitude": 33.712674562581,
+    "longitude": -117.954620332936
+  }
+]
