@@ -1,14 +1,14 @@
 //
-//  gas_UIApp.swift
-//  gas-UI
+//  gas_stationsApp.swift
+//  gas_stations
 //
-//  Created by B Shen on 2/14/26.
+//  Created by B Shen on 2/19/26.
 //
 
 import SwiftUI
 
 @main
-struct gas_UIApp: App {
+struct gas_stationsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

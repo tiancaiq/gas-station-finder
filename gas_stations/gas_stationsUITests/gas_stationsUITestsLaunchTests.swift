@@ -1,13 +1,13 @@
 //
-//  gas_UIUITestsLaunchTests.swift
-//  gas-UIUITests
+//  gas_stationsUITestsLaunchTests.swift
+//  gas_stationsUITests
 //
-//  Created by B Shen on 2/14/26.
+//  Created by B Shen on 2/19/26.
 //
 
 import XCTest
 
-final class gas_UIUITestsLaunchTests: XCTestCase {
+final class gas_stationsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

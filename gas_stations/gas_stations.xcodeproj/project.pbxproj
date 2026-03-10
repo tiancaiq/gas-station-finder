@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		8DA943002F417DBB00398B92 /* PBXContainerItemProxy */ = {
+		8DD480E22F471CCB00B0D414 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 8DA942E72F417DB800398B92 /* Project object */;
+			containerPortal = 8DD480C92F471CC900B0D414 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 8DA942EE2F417DB800398B92;
-			remoteInfo = "gas-UI";
+			remoteGlobalIDString = 8DD480D02F471CC900B0D414;
+			remoteInfo = gas_stations;
 		};
-		8DA9430A2F417DBB00398B92 /* PBXContainerItemProxy */ = {
+		8DD480EC2F471CCB00B0D414 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 8DA942E72F417DB800398B92 /* Project object */;
+			containerPortal = 8DD480C92F471CC900B0D414 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 8DA942EE2F417DB800398B92;
-			remoteInfo = "gas-UI";
+			remoteGlobalIDString = 8DD480D02F471CC900B0D414;
+			remoteInfo = gas_stations;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8DA942EF2F417DB800398B92 /* gas-UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "gas-UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8DA942FF2F417DBB00398B92 /* gas-UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "gas-UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8DA943092F417DBB00398B92 /* gas-UIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "gas-UIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8DD480D12F471CC900B0D414 /* gas_stations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gas_stations.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8DD480E12F471CCB00B0D414 /* gas_stationsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gas_stationsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8DD480EB2F471CCB00B0D414 /* gas_stationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gas_stationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8DA942F12F417DB800398B92 /* gas-UI */ = {
+		8DD480D32F471CC900B0D414 /* gas_stations */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "gas-UI";
+			path = gas_stations;
 			sourceTree = "<group>";
 		};
-		8DA943022F417DBB00398B92 /* gas-UITests */ = {
+		8DD480E42F471CCB00B0D414 /* gas_stationsTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "gas-UITests";
+			path = gas_stationsTests;
 			sourceTree = "<group>";
 		};
-		8DA9430C2F417DBB00398B92 /* gas-UIUITests */ = {
+		8DD480EE2F471CCB00B0D414 /* gas_stationsUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "gas-UIUITests";
+			path = gas_stationsUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8DA942EC2F417DB800398B92 /* Frameworks */ = {
+		8DD480CE2F471CC900B0D414 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8DA942FC2F417DBB00398B92 /* Frameworks */ = {
+		8DD480DE2F471CCB00B0D414 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8DA943062F417DBB00398B92 /* Frameworks */ = {
+		8DD480E82F471CCB00B0D414 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8DA942E62F417DB800398B92 = {
+		8DD480C82F471CC900B0D414 = {
 			isa = PBXGroup;
 			children = (
-				8DA942F12F417DB800398B92 /* gas-UI */,
-				8DA943022F417DBB00398B92 /* gas-UITests */,
-				8DA9430C2F417DBB00398B92 /* gas-UIUITests */,
-				8DA942F02F417DB800398B92 /* Products */,
+				8DD480D32F471CC900B0D414 /* gas_stations */,
+				8DD480E42F471CCB00B0D414 /* gas_stationsTests */,
+				8DD480EE2F471CCB00B0D414 /* gas_stationsUITests */,
+				8DD480D22F471CC900B0D414 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8DA942F02F417DB800398B92 /* Products */ = {
+		8DD480D22F471CC900B0D414 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8DA942EF2F417DB800398B92 /* gas-UI.app */,
-				8DA942FF2F417DBB00398B92 /* gas-UITests.xctest */,
-				8DA943092F417DBB00398B92 /* gas-UIUITests.xctest */,
+				8DD480D12F471CC900B0D414 /* gas_stations.app */,
+				8DD480E12F471CCB00B0D414 /* gas_stationsTests.xctest */,
+				8DD480EB2F471CCB00B0D414 /* gas_stationsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8DA942EE2F417DB800398B92 /* gas-UI */ = {
+		8DD480D02F471CC900B0D414 /* gas_stations */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8DA943132F417DBB00398B92 /* Build configuration list for PBXNativeTarget "gas-UI" */;
+			buildConfigurationList = 8DD480F52F471CCB00B0D414 /* Build configuration list for PBXNativeTarget "gas_stations" */;
 			buildPhases = (
-				8DA942EB2F417DB800398B92 /* Sources */,
-				8DA942EC2F417DB800398B92 /* Frameworks */,
-				8DA942ED2F417DB800398B92 /* Resources */,
+				8DD480CD2F471CC900B0D414 /* Sources */,
+				8DD480CE2F471CC900B0D414 /* Frameworks */,
+				8DD480CF2F471CC900B0D414 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8DA942F12F417DB800398B92 /* gas-UI */,
+				8DD480D32F471CC900B0D414 /* gas_stations */,
 			);
-			name = "gas-UI";
+			name = gas_stations;
 			packageProductDependencies = (
 			);
-			productName = "gas-UI";
-			productReference = 8DA942EF2F417DB800398B92 /* gas-UI.app */;
+			productName = gas_stations;
+			productReference = 8DD480D12F471CC900B0D414 /* gas_stations.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8DA942FE2F417DBB00398B92 /* gas-UITests */ = {
+		8DD480E02F471CCB00B0D414 /* gas_stationsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8DA943162F417DBB00398B92 /* Build configuration list for PBXNativeTarget "gas-UITests" */;
+			buildConfigurationList = 8DD480F82F471CCB00B0D414 /* Build configuration list for PBXNativeTarget "gas_stationsTests" */;
 			buildPhases = (
-				8DA942FB2F417DBB00398B92 /* Sources */,
-				8DA942FC2F417DBB00398B92 /* Frameworks */,
-				8DA942FD2F417DBB00398B92 /* Resources */,
+				8DD480DD2F471CCB00B0D414 /* Sources */,
+				8DD480DE2F471CCB00B0D414 /* Frameworks */,
+				8DD480DF2F471CCB00B0D414 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				8DA943012F417DBB00398B92 /* PBXTargetDependency */,
+				8DD480E32F471CCB00B0D414 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				8DA943022F417DBB00398B92 /* gas-UITests */,
+				8DD480E42F471CCB00B0D414 /* gas_stationsTests */,
 			);
-			name = "gas-UITests";
+			name = gas_stationsTests;
 			packageProductDependencies = (
 			);
-			productName = "gas-UITests";
-			productReference = 8DA942FF2F417DBB00398B92 /* gas-UITests.xctest */;
+			productName = gas_stationsTests;
+			productReference = 8DD480E12F471CCB00B0D414 /* gas_stationsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		8DA943082F417DBB00398B92 /* gas-UIUITests */ = {
+		8DD480EA2F471CCB00B0D414 /* gas_stationsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8DA943192F417DBB00398B92 /* Build configuration list for PBXNativeTarget "gas-UIUITests" */;
+			buildConfigurationList = 8DD480FB2F471CCB00B0D414 /* Build configuration list for PBXNativeTarget "gas_stationsUITests" */;
 			buildPhases = (
-				8DA943052F417DBB00398B92 /* Sources */,
-				8DA943062F417DBB00398B92 /* Frameworks */,
-				8DA943072F417DBB00398B92 /* Resources */,
+				8DD480E72F471CCB00B0D414 /* Sources */,
+				8DD480E82F471CCB00B0D414 /* Frameworks */,
+				8DD480E92F471CCB00B0D414 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				8DA9430B2F417DBB00398B92 /* PBXTargetDependency */,
+				8DD480ED2F471CCB00B0D414 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				8DA9430C2F417DBB00398B92 /* gas-UIUITests */,
+				8DD480EE2F471CCB00B0D414 /* gas_stationsUITests */,
 			);
-			name = "gas-UIUITests";
+			name = gas_stationsUITests;
 			packageProductDependencies = (
 			);
-			productName = "gas-UIUITests";
-			productReference = 8DA943092F417DBB00398B92 /* gas-UIUITests.xctest */;
+			productName = gas_stationsUITests;
+			productReference = 8DD480EB2F471CCB00B0D414 /* gas_stationsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8DA942E72F417DB800398B92 /* Project object */ = {
+		8DD480C92F471CC900B0D414 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					8DA942EE2F417DB800398B92 = {
+					8DD480D02F471CC900B0D414 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					8DA942FE2F417DBB00398B92 = {
+					8DD480E02F471CCB00B0D414 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 8DA942EE2F417DB800398B92;
+						TestTargetID = 8DD480D02F471CC900B0D414;
 					};
-					8DA943082F417DBB00398B92 = {
+					8DD480EA2F471CCB00B0D414 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 8DA942EE2F417DB800398B92;
+						TestTargetID = 8DD480D02F471CC900B0D414;
 					};
 				};
 			};
-			buildConfigurationList = 8DA942EA2F417DB800398B92 /* Build configuration list for PBXProject "gas-UI" */;
+			buildConfigurationList = 8DD480CC2F471CC900B0D414 /* Build configuration list for PBXProject "gas_stations" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 8DA942E62F417DB800398B92;
+			mainGroup = 8DD480C82F471CC900B0D414;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 8DA942F02F417DB800398B92 /* Products */;
+			productRefGroup = 8DD480D22F471CC900B0D414 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8DA942EE2F417DB800398B92 /* gas-UI */,
-				8DA942FE2F417DBB00398B92 /* gas-UITests */,
-				8DA943082F417DBB00398B92 /* gas-UIUITests */,
+				8DD480D02F471CC900B0D414 /* gas_stations */,
+				8DD480E02F471CCB00B0D414 /* gas_stationsTests */,
+				8DD480EA2F471CCB00B0D414 /* gas_stationsUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8DA942ED2F417DB800398B92 /* Resources */ = {
+		8DD480CF2F471CC900B0D414 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8DA942FD2F417DBB00398B92 /* Resources */ = {
+		8DD480DF2F471CCB00B0D414 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8DA943072F417DBB00398B92 /* Resources */ = {
+		8DD480E92F471CCB00B0D414 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8DA942EB2F417DB800398B92 /* Sources */ = {
+		8DD480CD2F471CC900B0D414 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8DA942FB2F417DBB00398B92 /* Sources */ = {
+		8DD480DD2F471CCB00B0D414 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8DA943052F417DBB00398B92 /* Sources */ = {
+		8DD480E72F471CCB00B0D414 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		8DA943012F417DBB00398B92 /* PBXTargetDependency */ = {
+		8DD480E32F471CCB00B0D414 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8DA942EE2F417DB800398B92 /* gas-UI */;
-			targetProxy = 8DA943002F417DBB00398B92 /* PBXContainerItemProxy */;
+			target = 8DD480D02F471CC900B0D414 /* gas_stations */;
+			targetProxy = 8DD480E22F471CCB00B0D414 /* PBXContainerItemProxy */;
 		};
-		8DA9430B2F417DBB00398B92 /* PBXTargetDependency */ = {
+		8DD480ED2F471CCB00B0D414 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8DA942EE2F417DB800398B92 /* gas-UI */;
-			targetProxy = 8DA9430A2F417DBB00398B92 /* PBXContainerItemProxy */;
+			target = 8DD480D02F471CC900B0D414 /* gas_stations */;
+			targetProxy = 8DD480EC2F471CCB00B0D414 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		8DA943112F417DBB00398B92 /* Debug */ = {
+		8DD480F32F471CCB00B0D414 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		8DA943122F417DBB00398B92 /* Release */ = {
+		8DD480F42F471CCB00B0D414 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,16 +388,18 @@
 			};
 			name = Release;
 		};
-		8DA943142F417DBB00398B92 /* Debug */ = {
+		8DD480F62F471CCB00B0D414 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"gas-UI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"gas_stations/Preview Content\"";
+				DEVELOPMENT_TEAM = 9V4228F827;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We use your location to find nearby gas stations.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -408,7 +410,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-UI";
+				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-stations";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -416,16 +418,18 @@
 			};
 			name = Debug;
 		};
-		8DA943152F417DBB00398B92 /* Release */ = {
+		8DD480F72F471CCB00B0D414 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"gas-UI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"gas_stations/Preview Content\"";
+				DEVELOPMENT_TEAM = 9V4228F827;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We use your location to find nearby gas stations.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -436,7 +440,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-UI";
+				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-stations";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -444,7 +448,7 @@
 			};
 			name = Release;
 		};
-		8DA943172F417DBB00398B92 /* Debug */ = {
+		8DD480F92F471CCB00B0D414 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -453,16 +457,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-UITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-stationsTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gas-UI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/gas-UI";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gas_stations.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/gas_stations";
 			};
 			name = Debug;
 		};
-		8DA943182F417DBB00398B92 /* Release */ = {
+		8DD480FA2F471CCB00B0D414 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,87 +475,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-UITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-stationsTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gas-UI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/gas-UI";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gas_stations.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/gas_stations";
 			};
 			name = Release;
 		};
-		8DA9431A2F417DBB00398B92 /* Debug */ = {
+		8DD480FC2F471CCB00B0D414 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-UIUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-stationsUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "gas-UI";
+				TEST_TARGET_NAME = gas_stations;
 			};
 			name = Debug;
 		};
-		8DA9431B2F417DBB00398B92 /* Release */ = {
+		8DD480FD2F471CCB00B0D414 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-UIUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "c.gas-stationsUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "gas-UI";
+				TEST_TARGET_NAME = gas_stations;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8DA942EA2F417DB800398B92 /* Build configuration list for PBXProject "gas-UI" */ = {
+		8DD480CC2F471CC900B0D414 /* Build configuration list for PBXProject "gas_stations" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DA943112F417DBB00398B92 /* Debug */,
-				8DA943122F417DBB00398B92 /* Release */,
+				8DD480F32F471CCB00B0D414 /* Debug */,
+				8DD480F42F471CCB00B0D414 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8DA943132F417DBB00398B92 /* Build configuration list for PBXNativeTarget "gas-UI" */ = {
+		8DD480F52F471CCB00B0D414 /* Build configuration list for PBXNativeTarget "gas_stations" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DA943142F417DBB00398B92 /* Debug */,
-				8DA943152F417DBB00398B92 /* Release */,
+				8DD480F62F471CCB00B0D414 /* Debug */,
+				8DD480F72F471CCB00B0D414 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8DA943162F417DBB00398B92 /* Build configuration list for PBXNativeTarget "gas-UITests" */ = {
+		8DD480F82F471CCB00B0D414 /* Build configuration list for PBXNativeTarget "gas_stationsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DA943172F417DBB00398B92 /* Debug */,
-				8DA943182F417DBB00398B92 /* Release */,
+				8DD480F92F471CCB00B0D414 /* Debug */,
+				8DD480FA2F471CCB00B0D414 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8DA943192F417DBB00398B92 /* Build configuration list for PBXNativeTarget "gas-UIUITests" */ = {
+		8DD480FB2F471CCB00B0D414 /* Build configuration list for PBXNativeTarget "gas_stationsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DA9431A2F417DBB00398B92 /* Debug */,
-				8DA9431B2F417DBB00398B92 /* Release */,
+				8DD480FC2F471CCB00B0D414 /* Debug */,
+				8DD480FD2F471CCB00B0D414 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8DA942E72F417DB800398B92 /* Project object */;
+	rootObject = 8DD480C92F471CC900B0D414 /* Project object */;
 }

@@ -1,14 +1,14 @@
 //
-//  gas_UITests.swift
-//  gas-UITests
+//  gas_stationsTests.swift
+//  gas_stationsTests
 //
-//  Created by B Shen on 2/14/26.
+//  Created by B Shen on 2/19/26.
 //
 
 import Testing
-@testable import gas_UI
+@testable import gas_stations
 
-struct gas_UITests {
+struct gas_stationsTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
