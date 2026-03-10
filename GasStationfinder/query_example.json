@@ -1,13 +1,1 @@
-{
-  "priority": "cheapest",
-  "latitude": 37.785834,
-  "amenities": {
-    "convenienceStore": false,
-    "restroom": false,
-    "food": false
-  },
-  "urgency": 0.4,
-  "longitude": -122.406417,
-  "maxDistanceMiles": 6,
-  "mode": "emergency"
-}
+{'priority': 'cheapest', 'latitude': 37.785834, 'amenities': {'convenienceStore': False, 'restroom': False, 'food': False}, 'urgency': 0.4, 'longitude': -122.406417, 'maxDistanceMiles': 6, 'mode': 'emergency'}

@@ -1,25 +1,10 @@
 [
   {
-    "id": "b0813c5550c7eecf",
-    "name": "ARCO",
-    "brand": "ARCO",
-    "price": 3.59,
-    "distanceMiles": 5.594,
-    "isOpen": true,
-    "why": "Open + closest within 6 mi",
-    "nearby": [
-      "Convenience Store",
-      "Restroom"
-    ],
-    "latitude": 33.751726873313,
-    "longitude": -117.95496001065
-  },
-  {
     "id": "6f11d809fbad09a3",
     "name": "World",
     "brand": "World",
     "price": 3.69,
-    "distanceMiles": 4.111,
+    "distanceMiles": 4.113,
     "isOpen": true,
     "why": "Open + closest within 6 mi",
     "nearby": [],
@@ -31,7 +16,7 @@
     "name": "ARCO",
     "brand": "ARCO",
     "price": 3.69,
-    "distanceMiles": 5.657,
+    "distanceMiles": 5.658,
     "isOpen": true,
     "why": "Open + closest within 6 mi",
     "nearby": [
@@ -61,7 +46,7 @@
     "name": "ARCO",
     "brand": "ARCO",
     "price": 3.75,
-    "distanceMiles": 4.105,
+    "distanceMiles": 4.106,
     "isOpen": true,
     "why": "Open + closest within 6 mi",
     "nearby": [
@@ -76,7 +61,7 @@
     "name": "Stars & Stripes Travel Center",
     "brand": "Stars",
     "price": 3.79,
-    "distanceMiles": 1.965,
+    "distanceMiles": 1.966,
     "isOpen": true,
     "why": "Open + closest within 6 mi",
     "nearby": [],
@@ -88,7 +73,7 @@
     "name": "Speedway Express",
     "brand": "Speedway",
     "price": 3.79,
-    "distanceMiles": 2.256,
+    "distanceMiles": 2.257,
     "isOpen": true,
     "why": "Open + closest within 6 mi",
     "nearby": [
@@ -118,7 +103,7 @@
     "name": "D & L Gas",
     "brand": "D",
     "price": 3.79,
-    "distanceMiles": 4.042,
+    "distanceMiles": 4.043,
     "isOpen": true,
     "why": "Open + closest within 6 mi",
     "nearby": [
@@ -133,7 +118,7 @@
     "name": "Sam's Club",
     "brand": "Sam's",
     "price": 3.79,
-    "distanceMiles": 4.422,
+    "distanceMiles": 4.423,
     "isOpen": true,
     "why": "Open + closest within 6 mi",
     "nearby": [
@@ -142,5 +127,20 @@
     ],
     "latitude": 33.712674562581,
     "longitude": -117.954620332936
+  },
+  {
+    "id": "2b5cc34502832c3b",
+    "name": "ARCO",
+    "brand": "ARCO",
+    "price": 3.79,
+    "distanceMiles": 5.27,
+    "isOpen": true,
+    "why": "Open + closest within 6 mi",
+    "nearby": [
+      "Convenience Store",
+      "Restroom"
+    ],
+    "latitude": 33.769169130514,
+    "longitude": -117.92042620738
   }
 ]
