@@ -177,6 +177,15 @@ struct ContentView: View {
             }
             .navigationTitle("Fuel Advisor")
             .navigationBarTitleDisplayMode(.inline)
+            .toolbar {
+                ToolbarItem(placement: .topBarTrailing) {
+                    NavigationLink {
+                        HistoryView()
+                    } label: {
+                        Image(systemName: "clock.arrow.circlepath")
+                    }
+                }
+            }
             .onAppear {
                 // start location
                 locationManager.requestPermissionAndStart()

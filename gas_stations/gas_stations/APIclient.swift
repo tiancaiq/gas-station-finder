@@ -41,4 +41,22 @@ final class APIClient {
 
         return try JSONDecoder().decode([StationResponse].self, from: data)
     }
+    func updatePrice(payload: UpdatePriceRequest) async throws {
+        let url = baseURL.appendingPathComponent("update-price")
+
+        var req = URLRequest(url: url)
+        req.httpMethod = "POST"
+        req.setValue("application/json", forHTTPHeaderField: "Content-Type")
+        req.httpBody = try JSONEncoder().encode(payload)
+
+        let (data, resp) = try await URLSession.shared.data(for: req)
+
+        guard let http = resp as? HTTPURLResponse,
+              (200...299).contains(http.statusCode) else {
+            let body = String(data: data, encoding: .utf8) ?? ""
+            throw APIError.badHTTP(status: (resp as? HTTPURLResponse)?.statusCode ?? -1, body: body)
+        }
+    }
 }
+
+

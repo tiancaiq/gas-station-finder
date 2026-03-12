@@ -77,3 +77,8 @@ struct StationResponse: Codable, Identifiable {
     let latitude: Double
     let longitude: Double
 }
+
+struct UpdatePriceRequest: Codable {
+    let stationId: String
+    let newPrice: Double
+}
