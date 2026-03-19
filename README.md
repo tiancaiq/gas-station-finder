@@ -10,8 +10,12 @@ backend:GasStaionfinder->  run command line:  cd .\gas-station-finder
   python -m uvicorn api_main:app --app-dir .\apisetting\.venv --host 0.0.0.0 --port 8000 --reload
 
 
-Data collector 
-Web scrawler refer https://github.com/unclecode/crawl4ai for installation
+ Data collector 
+ 
+Web scrawler refer https://github.com/unclecode/crawl4ai for installatio
+
     then python scripts\batch_crawler.py
+    
     python srcipts\batch\parse_gasbuddy.py
+    
     data will store at stations_all.csv
