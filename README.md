@@ -3,7 +3,8 @@
 
 Data: GasStationfinder -> stations_california_clean_5_columns.csv
 
-UI:gas_stations (xcode) (make sure update your ip.address to your own backend sever at APIclient.swift)
+#UI:
+gas_stations (xcode) (make sure update your ip.address to your own backend sever at APIclient.swift)
 
 # backend:
 
@@ -36,7 +37,7 @@ UI:gas_stations (xcode) (make sure update your ip.address to your own backend se
     python -m uvicorn api_main:app --app-dir apisetting --host 0.0.0.0 --port 8000 --reload
 
 
-Data collector 
+# Data collector 
  
 Web scrawler refer https://github.com/unclecode/crawl4ai for installation
 
